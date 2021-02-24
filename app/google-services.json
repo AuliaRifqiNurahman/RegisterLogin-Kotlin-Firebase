@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698311904572",
+    "project_id": "registerloginapp-84906",
+    "storage_bucket": "registerloginapp-84906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698311904572:android:76a04b091d8f8c0d6ce239",
+        "android_client_info": {
+          "package_name": "com.auliarifqi.registerloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698311904572-j8p4usdk4ju4587u8at5914hrh0ugj5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auliarifqi.registerloginapp",
+            "certificate_hash": "9f8bd57a7a058ec320b930f6fbf2360b0d42f003"
+          }
+        },
+        {
+          "client_id": "698311904572-k1dc018c53vj0efbevihe1lvd9abd60p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfoC5LMMWBezTB_Jc8hd36SFSgw88HoTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698311904572-k1dc018c53vj0efbevihe1lvd9abd60p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
